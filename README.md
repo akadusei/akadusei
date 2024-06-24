@@ -12,7 +12,7 @@ I am very passionate about solving problems with code, and value relationships t
 
 In my spare time, I like to explore emerging technology, especially new programming languages. I also like to solve code challenges, watch movies, and travel once in a while.
 
-## Current Role
+### Current Role
 
 I currently work as a freelance Web & Systems Engineer, building and running a [WordPress PaaS application](https://platform.grottopress.com). This application allows web designers and content creators to launch WordPress websites easily, without having to configure or manage their own servers.
 
@@ -24,11 +24,13 @@ All the services are hosted on a compute cluster I built on Hetzner Cloud, using
 
 I also take care of provisioning, setting up and maintaining the remote virtual machines onto which the platform application deploys WordPress instances. Every WordPress instance launched is automatically deployed and set up inside LXD containers on these machines, ready with free SSL/TLS, and a `.grottopress.net` subdomain for sites that do not have a custom domain.
 
-## Open Source
+### Open Source
 
 I am a huge fan of open source. I use, maintain and/or contribute to various projects, both at work and in my free time. Find my open source work on GitHub at the [@GrottoPress](https://github.com/grottopress) organization.
 
-## Connect With Me
+### Let's Connect
+
+You may get in touch with me via:
 
 - Email: <a@grottopress.com>
 - Twitter: [@GrottoPress](https://twitter.com/grottopress), [@akadusei](https://twitter.com/akadusei)
