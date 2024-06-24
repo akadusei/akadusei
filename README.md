@@ -14,11 +14,11 @@ In my spare time, I like to explore emerging technology, especially new programm
 
 ### Current Role
 
-I currently work as a freelance Web & Systems Engineer, building and running a [WordPress PaaS application](https://platform.grottopress.com). This application allows web designers and content creators to launch WordPress websites easily, without having to configure or manage their own servers.
+I currently work as a freelance Web & Systems Engineer, building and running a [WordPress PaaS application](https://platform.grottopress.com). This application enables web designers and content creators to launch WordPress websites easily, without having to configure or manage their own servers.
 
 My work involves designing and building new features, and finding and fixing bugs. Any changes are pushed upstream by a CI/CD pipeline that automatically deploys changes into production a few times per day.
 
-The platform is a multi-service application, consisting of 3 apps hosted on separate subdomains. Each app consists of a JSON API backend, a background worker, and a decoupled frontend user interface. The apps are connected via an authentication protocol I designed on top of OAuth2 called [Samba](https://github.com/grottopress/samba). They communicate at the backends through message queues and asynchronous webhooks using [Mel](https://github.com/grottopress/mel).
+The platform is a multi-service application made up of 3 apps hosted on separate subdomains. Each app consists of a JSON API backend, a background worker, and a decoupled frontend user interface. The apps are connected via an authentication protocol I designed on top of OAuth2 called [Samba](https://github.com/grottopress/samba). They communicate at the backends through message queues and asynchronous webhooks using [Mel](https://github.com/grottopress/mel).
 
 All the services are hosted on a compute cluster I built on Hetzner Cloud, using Docker Swarm and Traefik. They connect to remote CockroachDB databases and redis stores from third party cloud providers.
 
