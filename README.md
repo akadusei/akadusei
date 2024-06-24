@@ -1,4 +1,6 @@
-## Hi there 👋 Really nice to meet you...
+*Hi there 👋 Really nice to meet you...*
+
+## About Me
 
 I have over 10 years experience designing and developing for the web. I started as a Web Developer in 2011 when I co-founded a web services agency with a few friends. My main role was leading that cross-functional team to provide web-based solutions to customers. I also built websites, mostly using custom WordPress themes and plugins we developed in-house.
 
@@ -26,7 +28,7 @@ I also take care of provisioning, setting up and maintaining the remote virtual 
 
 I am a huge fan of open source. I use, maintain and/or contribute to various projects, both at work and in my free time. Find my open source work on GitHub at the [@GrottoPress](https://github.com/grottopress) organization.
 
-## Contacts
+## Contact Me
 
 - Email: <a@grottopress.com>
 - Twitter: [@GrottoPress](https://twitter.com/grottopress), [@akadusei](https://twitter.com/akadusei)
