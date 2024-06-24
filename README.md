@@ -23,16 +23,3 @@ The platform is a multi-service application, consisting of 3 apps hosted on sepa
 All the services are hosted on a compute cluster I built on Hetzner Cloud, using Docker Swarm and Traefik. They connect to remote CockroachDB databases and redis stores from third party cloud providers.
 
 I also take care of provisioning, setting up and maintaining the remote virtual machines onto which the platform application deploys WordPress instances. Every WordPress instance launched is automatically deployed and set up inside LXD containers on these machines, ready with free SSL/TLS, and a `.grottopress.net` subdomain for sites that do not have a custom domain.
-
-### Open Source
-
-I am a huge fan of open source. I use, maintain and/or contribute to various projects, both at work and in my free time. Find my open source work on GitHub at the [@GrottoPress](https://github.com/grottopress) organization.
-
-### Let's Connect
-
-You may get in touch with me via:
-
-- Email: <a@grottopress.com>
-- Twitter: [@GrottoPress](https://twitter.com/grottopress), [@akadusei](https://twitter.com/akadusei)
-- LinkedIn: [akadusei](https://www.linkedin.com/in/akadusei/)
-- GitHub: [@GrottoPress](https://github.com/grottopress), [@akadusei](https://github.com/akadusei)
