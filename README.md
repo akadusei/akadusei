@@ -14,7 +14,7 @@ In my spare time, I like to explore emerging technology, especially new programm
 
 ### Current Role
 
-I currently work as a freelance Web & Systems Engineer, building and running a [WordPress PaaS application](https://platform.grottopress.com). This application enables web designers and content creators to launch WordPress websites easily, without having to configure or manage their own servers.
+I currently work as a freelance Web & Systems Engineer, building and running a [PaaS application](https://platform.grottopress.com). This application enables web designers and content creators to launch WordPress websites easily, without having to configure or manage their own servers.
 
 My work involves designing and building new features, and finding and fixing bugs. Any changes are pushed upstream by a CI/CD pipeline that automatically deploys changes into production a few times per day.
 
